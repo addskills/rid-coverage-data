@@ -379,5 +379,22 @@
       "Models": 90.2,
       "Services": 81.2
     }
+  },
+  {
+    "date": "2026-04-07",
+    "commit": "fb6ccb3",
+    "coverage": 81.32,
+    "tests": 370,
+    "files": {
+      "Other": 94.4,
+      "Controllers": 72.1,
+      "Admin": 81.2,
+      "Models": 90.9,
+      "API v1": 72.6,
+      "API v2": 74.7,
+      "Jobs": 94.0,
+      "Mailers": 82.9,
+      "Services": 81.2
+    }
   }
 ]

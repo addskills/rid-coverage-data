@@ -1535,5 +1535,22 @@
       "Mailers": 82.9,
       "Services": 81.2
     }
+  },
+  {
+    "date": "2026-04-18",
+    "commit": "fcaa2ab",
+    "coverage": 84.54,
+    "tests": 486,
+    "files": {
+      "Other": 86.6,
+      "Controllers": 85.3,
+      "Admin": 82.4,
+      "Models": 91.9,
+      "API v1": 72.6,
+      "API v2": 83.3,
+      "Jobs": 94.0,
+      "Mailers": 82.9,
+      "Services": 81.2
+    }
   }
 ]

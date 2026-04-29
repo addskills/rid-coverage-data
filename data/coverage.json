@@ -2606,5 +2606,22 @@
       "Mailers": 100.0,
       "Services": 79.0
     }
+  },
+  {
+    "date": "2026-04-29",
+    "commit": "795a13e",
+    "coverage": 86.59,
+    "tests": 629,
+    "files": {
+      "Other": 86.6,
+      "Controllers": 91.0,
+      "Admin": 86.1,
+      "Models": 92.6,
+      "API v1": 70.9,
+      "API v2": 86.1,
+      "Jobs": 95.6,
+      "Mailers": 100.0,
+      "Services": 79.0
+    }
   }
 ]
